@@ -7,12 +7,33 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Health eHub application is intended to fill a noticeable gap in medical information.  While there are many provider-centric portal applications in health care,
+only one patient-based application from 10 years ago could be located. Multiple groups have the potential to benefit from this app:
+* large communities that have multiple proprietary provider portals and benefit from having a single point of data
+* smaller communities that do not have as many digitized applications
+* travelers or digital nomads could benefit from an electronic single source of information
+The intended use for Health eHub is not to compete with provider portals but enhance opportunities by driving 
+patient engagement using this application as a tool to store medical data.
 ### Features
-Include Features here
+* User Account Creation
+* User Login
+* User Logout
+* User Enter Data
+* User Save Data
+* User View Data
 ### Technologies
-Include Technologies here
+* Java 11.0
+* Javascript 16.17.0
+* Spring Boot 3.0.1
+* Thymeleaf templates 3.1.1
+* HTML 5
+* CSS 3
+* Hibernate 6.1.4
+* MySQL 8.0
+* External Connection API
 ### What I'll Have to Learn
-Include what you will need to learn here
+* External Connection API
+* Responsive Web Design
+* User authentication & authorization
 ### Project Tracker
-Link to your Trello board here
+[Trello](https://trello.com/invite/b/fjtRsSmY/ATTI645f8975c18877be4f4801cedfe2b6708A05A35A/liftoff)
